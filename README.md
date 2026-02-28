@@ -1,6 +1,6 @@
 # massivedev0
 
-![CryptoPunk Avatar](./assets/cryptopunk-avatar.svg)
+![CryptoPunk Avatar](./assets/cryptopunk-avatar.png)
 
 ```text
    .-=============================-. 
