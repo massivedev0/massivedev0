@@ -1,5 +1,7 @@
 # massivedev0
 
+![CryptoPunk Avatar](./assets/cryptopunk-avatar.svg)
+
 ```text
    .-=============================-. 
   /   ____   ____   ____   ____    \
