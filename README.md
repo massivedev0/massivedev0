@@ -1,6 +1,4 @@
-# massivedev0
-
-![CryptoPunk Avatar](./assets/cryptopunk-avatar.png)
+# massivedev0 (Theo Bitner)
 
 ```text
    .-=============================-. 
@@ -16,9 +14,11 @@
 ```
 
 ## About
-JS/TS developer focused on the Massa ecosystem and crypto-native products.
+
+JS/TS developer focused on the Ethereum, Massa ecosystems and crypto-native products, and algo trading.
 
 ## Interests
+
 - JavaScript / TypeScript
 - MassaLabs ecosystem and on-chain tooling
 - Trading systems and market-making
@@ -27,6 +27,7 @@ JS/TS developer focused on the Massa ecosystem and crypto-native products.
 - CryptoPunk culture and cyber aesthetics
 
 ## Skills
+
 - Building trading bots and strategy modules in Node.js/TypeScript
 - Market-making logic: spread control, inventory balancing, risk limits
 - Exchange/API integrations, websocket streams, order lifecycle handling
@@ -35,10 +36,12 @@ JS/TS developer focused on the Massa ecosystem and crypto-native products.
 - Automation with GitHub Actions, CI workflows, and release hygiene
 
 ## Current Focus
+
 - Designing resilient JS/TS trading architecture for volatile crypto markets
 - Researching market microstructure and execution quality
 - Shipping practical tools for builders in MassaLabs ecosystem
 
 ## Contact
+
 - GitHub: [@massivedev0](https://github.com/massivedev0)
-- Email: `vr.dev0@gmail.com`
+- X: https://x.com/ScootaFanus
